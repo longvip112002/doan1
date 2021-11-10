@@ -1,0 +1,7 @@
+C:\Lập trình opp\DOAN1\DOAN1\bin\Debug\DOAN1.exe.config
+C:\Lập trình opp\DOAN1\DOAN1\bin\Debug\DOAN1.exe
+C:\Lập trình opp\DOAN1\DOAN1\bin\Debug\DOAN1.pdb
+C:\Lập trình opp\DOAN1\DOAN1\obj\Debug\DOAN1.csproj.AssemblyReference.cache
+C:\Lập trình opp\DOAN1\DOAN1\obj\Debug\DOAN1.csproj.CoreCompileInputs.cache
+C:\Lập trình opp\DOAN1\DOAN1\obj\Debug\DOAN1.exe
+C:\Lập trình opp\DOAN1\DOAN1\obj\Debug\DOAN1.pdb
